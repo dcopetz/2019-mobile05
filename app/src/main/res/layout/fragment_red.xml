@@ -16,7 +16,7 @@
             android:id="@+id/txt_red_fragment"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Red Fragment"
+            android:text="@string/red_fragment"
             android:textSize="30sp"
 
             app:layout_constraintBottom_toBottomOf="parent"
